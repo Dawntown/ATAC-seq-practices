@@ -1,0 +1,16 @@
+# ignore all the data files
+
+metadata/*
+GSE203194/*
+*/exp/*.bed
+*/exp/*.bw
+*/exp/*.pdf
+*/exp/*.gz
+
+*/GSM*/*.bed
+*/GSM*/*.bw
+*/GSM*/*.pdf
+*/GSM*/*.gz
+
+*/genome_ref/*.gtf
+

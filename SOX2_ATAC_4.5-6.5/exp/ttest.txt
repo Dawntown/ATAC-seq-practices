@@ -1,0 +1,4 @@
+path1.bed;"baba (baba ww)"
+path2.bed;"cbcb (cbcb xx)"
+path3.bed;"dcdc (dcdc yy)"
+path4.bed;"eded (eded zz)"

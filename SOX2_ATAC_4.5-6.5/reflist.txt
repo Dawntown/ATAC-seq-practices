@@ -1,0 +1,6 @@
+GSM7211418_E45_Epi_SOX2_CR_rep1.bw
+GSM7211419_E45_Epi_SOX2_CR_rep2.bw
+GSM6161425_E55_epiblast_SOX2_CR_rep1.bw
+GSM6161426_E55_epiblast_SOX2_CR_rep2.bw
+GSM6161427_E65_epiblast_SOX2_CR_rep1.bw 
+GSM6161428_E65_epiblast_SOX2_CR_rep2.bw

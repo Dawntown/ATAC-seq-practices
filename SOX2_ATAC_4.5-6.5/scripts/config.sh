@@ -1,0 +1,6 @@
+data_dir="/users/s1155184323/projects/scATAC-benchmarking/xinda_data/GSE203194"
+work_dir="/users/s1155184323/projects/scATAC-benchmarking/xinda_data/SOX2_ATAC_4.5-6.5"
+# ref_file="$work_dir/genome_ref/sorted.gtf"
+annot_file="$work_dir/genome_ref/mm9.refGene.gtf"
+blacklist="$work_dir/genome_ref/mm9-blacklist.bed"
+marker_gene_list="$work_dir/genome_ref/marker_genes.list"
